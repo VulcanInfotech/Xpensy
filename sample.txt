@@ -1,0 +1,14 @@
+Pyxymail leftout tasks:
+	1. Pyxymail Edit option - Last date till Friday 11th Dec
+	2. Audience Import
+	3. 4 External pages after support page - Sayali 3 days
+
+Xpensy leftout tasks:
+	1. Report
+	2. Online reimbursement - Prathamesh
+	3. Multiple attachments - Prathamesh
+	4. Saved reports - Prathamesh
+	5. Remember history - Prathamesh
+	6. Reset password design - Ulka
+	7. Logo resize - 
+	8. Deactivate account - Prathamesh
